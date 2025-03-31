@@ -28,7 +28,7 @@ export default function Servicios() {
       titulo: "Cirugías",
       descripcion:
         "Procedimientos quirúrgicos realizados por especialistas en un quirófano completamente equipado, con monitoreo constante y cuidados post-operatorios.",
-      imagen: "SANNAVETFOTOS/CIRUGíAS_Mesa de trabajo 1.jpg",
+      imagen: "SANNAVETFOTOS/CIRUGIAS_Mesa de trabajo 1.jpg",
       detalles: [
         "Esterilización y castración",
         "Cirugías abdominales",
