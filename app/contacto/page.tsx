@@ -73,17 +73,7 @@ export default function Contacto() {
             </div>
           </div>
 
-          <div className="bg-primary text-white p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-bold mb-4">Emergencias 24/7</h3>
-            <p className="mb-4">
-              Contamos con servicio de emergencias las 24 horas del día, los 7 días de la semana. No dudes en
-              contactarnos ante cualquier urgencia.
-            </p>
-            <div className="flex items-center">
-              <Phone className="mr-2 h-5 w-5" />
-              <p className="font-bold">+51 996 842 258</p>
-            </div>
-          </div>
+          
         </div>
       </div>
 

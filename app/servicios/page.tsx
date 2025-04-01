@@ -254,13 +254,13 @@ export default function Servicios() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Servicios de Emergencia</h2>
               <p className="mb-4">
-                Contamos con servicio de emergencias las 24 horas del día, los 7 días de la semana. Nuestro equipo está
+                Nuestro equipo está
                 preparado para atender cualquier situación crítica que pueda afectar a tu mascota.
               </p>
               <ul className="list-disc list-inside mb-4">
                 <li>Atención inmediata</li>
                 <li>Equipo especializado en emergencias</li>
-                <li>Unidad de cuidados intensivos</li>
+                
                 <li>Monitoreo constante</li>
               </ul>
               <p className="font-bold">Número de emergencias: +51 966 842 258</p>

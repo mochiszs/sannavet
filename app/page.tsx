@@ -5,11 +5,15 @@ import ImageSlider from "@/components/image-slider"
 export default function Home() {
   const sliderImages = [
     {
-      src: "/nuevasfotos/PORTADA 1_Mesa de trabajo 1.jpg",
+      src: "/SANNAVETFOTOS/PORTADA 1_Mesa de trabajo 1.jpg",
       alt: "Veterinarios atendiendo a una mascota",
     },
     {
-      src: "/nuevasfotos/PORTADA 2_Mesa de trabajo 1.jpg",
+      src: "/SANNAVETFOTOS/PORTADA 2_Mesa de trabajo 1.jpg",
+      alt: "Instalaciones modernas de Sanna Vet",
+    },
+    {
+      src: "/SANNAVETFOTOS/PORTADA 3_Mesa de trabajo 1.jpg",
       alt: "Instalaciones modernas de Sanna Vet",
     },
     

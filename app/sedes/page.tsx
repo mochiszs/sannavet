@@ -26,7 +26,7 @@ export default function Sedes() {
 
       <div className="space-y-16">
         {sedes.map((sede, index) => (
-          <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden">
+          <div key={index} className="bg- rounded-lg shadow-md overflow-hidden">
             <div className="grid grid-cols-1 md:grid-cols-2">
               <div className="relative h-64 md:h-auto">
                 <Image src={sede.imagen || "/placeholder.svg"} alt={sede.nombre} fill className="object-cover" />
@@ -74,16 +74,7 @@ export default function Sedes() {
 
       
 
-      <div className="mt-16 text-center">
-        <h2 className="text-2xl font-bold text-primary mb-6">¿Necesitas más información?</h2>
-        <p className="text-gray-600 max-w-3xl mx-auto mb-8">
-          Si tienes dudas sobre nuestras sedes, servicios disponibles o deseas agendar una cita, no dudes en
-          contactarnos.
-        </p>
-        <div className="inline-block bg-primary text-white px-6 py-3 rounded-lg font-bold hover:bg-navy-light transition-colors">
-          Contactar
-        </div>
-      </div>
+      
     </div>
   )
 }
